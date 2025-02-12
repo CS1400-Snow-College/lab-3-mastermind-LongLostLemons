@@ -1,0 +1,15 @@
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\bin\Debug\net9.0\lab-3-mastermind-LongLostLemons.exe
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\bin\Debug\net9.0\lab-3-mastermind-LongLostLemons.deps.json
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\bin\Debug\net9.0\lab-3-mastermind-LongLostLemons.runtimeconfig.json
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\bin\Debug\net9.0\lab-3-mastermind-LongLostLemons.dll
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\bin\Debug\net9.0\lab-3-mastermind-LongLostLemons.pdb
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.AssemblyInfoInputs.cache
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.AssemblyInfo.cs
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.csproj.CoreCompileInputs.cache
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.sourcelink.json
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.dll
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\refint\lab-3-mastermind-LongLostLemons.dll
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.pdb
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\lab-3-mastermind-LongLostLemons.genruntimeconfig.cache
+C:\Users\jenna\my-code-dir\lab-3-mastermind-LongLostLemons\obj\Debug\net9.0\ref\lab-3-mastermind-LongLostLemons.dll
